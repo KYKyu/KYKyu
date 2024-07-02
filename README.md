@@ -1,4 +1,4 @@
-<h2 class="heading-element" dir="auto">kills</h2>
+<h2 class="heading-element" dir="auto">Skills</h2>
 
 
 
