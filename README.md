@@ -1,6 +1,7 @@
 <h2 class="heading-element" dir="auto">Skills</h2>
 Language
-<p>
+<p1></p1>
+<p2>
   <a href="https://img.shields.io/badge/Python-3776AB" rel="nofollow">
   <img src="https://camo.githubusercontent.com/e42bb658b2e665a57ebe2da6564562353f3e73c6ea0564b2fabc80f10fcef8f8/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f507974686f6e2d3337373641423f7374796c653d666c61742d737175617265266c6f676f3d707974686f6e266c6f676f436f6c6f723d7768697465266c696e6b3d68747470733a2f2f6769746875622e636f6d2f736f6e6768616161" data-canonical-src="https://img.shields.io/badge/Python-3776AB?style=flat-square&amp;logo=python&amp;logoColor=white&amp;link=https://github.com/songhaaa" style="max-width: 100%;">
 </a>
@@ -13,7 +14,7 @@ Language
   <a href="/songhaaa/songhaaa/blob/main">
   <img src="https://camo.githubusercontent.com/e8a5674774208ad728cd7b2db3d94e7b3724d8b8b79d94811ed0586486dcddec/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4a6176612d3030384238423f7374796c653d666c61742d737175617265266c6f676f3d266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/Java-008B8B?style=flat-square&amp;logo=&amp;logoColor=white" style="max-width: 100%;">
 </a>
-</p>
+</p2>
 
 
 
