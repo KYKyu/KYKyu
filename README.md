@@ -2,21 +2,12 @@
 
 <div class="markdown-heading" dir="auto"><h4 class="heading-element" dir="auto">Languge</h4><a id="user-content-languge" class="anchor" aria-label="Permalink: Languge" href="#languge"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
 
-<p>
-  <a href="https://img.shields.io/badge/Python-3776AB" rel="nofollow">
-  <img src="https://camo.githubusercontent.com/e42bb658b2e665a57ebe2da6564562353f3e73c6ea0564b2fabc80f10fcef8f8/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f507974686f6e2d3337373641423f7374796c653d666c61742d737175617265266c6f676f3d707974686f6e266c6f676f436f6c6f723d7768697465266c696e6b3d68747470733a2f2f6769746875622e636f6d2f736f6e6768616161" data-canonical-src="https://img.shields.io/badge/Python-3776AB?style=flat-square&amp;logo=python&amp;logoColor=white&amp;link=https://github.com/songhaaa" style="max-width: 100%;">
-</a>
-<a href="https://img.shields.io/badge/C-A8B9CC" rel="nofollow">
-  <img src="https://camo.githubusercontent.com/cf4fbf0b9adb8846f319cf729e8cf1dbd4a9890878741067d2889ac2637f945f/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f432d4138423943433f7374796c653d666c61742d737175617265266c6f676f3d63266c6f676f436f6c6f723d7768697465266c696e6b3d68747470733a2f2f6769746875622e636f6d2f736f6e6768616161" data-canonical-src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&amp;logo=c&amp;logoColor=white&amp;link=https://github.com/songhaaa" style="max-width: 100%;">
-</a>
-<a href="https://img.shields.io/badge/C++-00599C" rel="nofollow">
-  <img src="https://camo.githubusercontent.com/f587a420d635afc645c622dff1b5c5b7b524c44e0c2021a905eb1a9b80bc8512/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f432b2b2d3030353939433f7374796c653d666c61742d737175617265266c6f676f3d63706c7573706c7573266c6f676f436f6c6f723d7768697465266c696e6b3d68747470733a2f2f6769746875622e636f6d2f736f6e6768616161" data-canonical-src="https://img.shields.io/badge/C++-00599C?style=flat-square&amp;logo=cplusplus&amp;logoColor=white&amp;link=https://github.com/songhaaa" style="max-width: 100%;">
-</a>
-  <a href="/songhaaa/songhaaa/blob/main">
-  <img src="https://camo.githubusercontent.com/e8a5674774208ad728cd7b2db3d94e7b3724d8b8b79d94811ed0586486dcddec/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4a6176612d3030384238423f7374796c653d666c61742d737175617265266c6f676f3d266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/Java-008B8B?style=flat-square&amp;logo=&amp;logoColor=white" style="max-width: 100%;">
-</a>
-</p>
 
+<div dir=auto>
+<a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/73cb912cdd1a948c58c3cdf67d388be6a8162bf7f87af9a889e3d9e2f39ed80b/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6a6176617363726970742d4637444631452e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d6a617661736372697074266c6f676f436f6c6f723d323032333261"><img src="https://camo.githubusercontent.com/73cb912cdd1a948c58c3cdf67d388be6a8162bf7f87af9a889e3d9e2f39ed80b/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6a6176617363726970742d4637444631452e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d6a617661736372697074266c6f676f436f6c6f723d323032333261" data-canonical-src="https://img.shields.io/badge/javascript-F7DF1E.svg?style=for-the-badge&amp;logo=javascript&amp;logoColor=20232a" style="max-width: 100%;"></a>
+
+<a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/90e723a39a431a58b0cc259dd6907b62d0d5bc2957f1645dfb735ec209a0cf06/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f68746d6c352d4533344632362e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d68746d6c35266c6f676f436f6c6f723d7768697465"><img src="https://camo.githubusercontent.com/90e723a39a431a58b0cc259dd6907b62d0d5bc2957f1645dfb735ec209a0cf06/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f68746d6c352d4533344632362e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d68746d6c35266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/html5-E34F26.svg?style=for-the-badge&amp;logo=html5&amp;logoColor=white" style="max-width: 100%;"></a>
+</div>
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KYKyu&show_icons=true&theme=radical)
