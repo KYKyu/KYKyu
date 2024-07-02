@@ -6,7 +6,7 @@
 
 
 <div>
-  <img src="https://img.shields.io/badge/3776AB?style=for-the-badge&logo=python&logoColor=black">
+  <img src="https://img.shields.io/badge/Python-75BDE0?style=for-the-badge&logo=https://s3.dualstack.us-east-2.amazonaws.com/pythondotorg-assets/media/community/logos/python-logo-only.png&logoColor=black">
 </div>
 
 
