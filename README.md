@@ -24,12 +24,11 @@
   <img src="https://img.shields.io/badge/arduino-00878F?style=for-the-badge&logo=arduino&logoColor=white">
 </div>
 
-<div>
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KYKyu&show_icons=true&theme=radical)  
-</div>
-<div>
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KYKyu)
-</div>
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KYKyu&show_icons=true&theme=radical)  
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KYKyu)
+
 
 
 
