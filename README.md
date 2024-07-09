@@ -23,11 +23,12 @@ Hi there!🖐️
   <img src="https://img.shields.io/badge/pytorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white">
   <img src="https://img.shields.io/badge/jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white">
   <img src="https://img.shields.io/badge/linux-FCC624?style=for-the-badge&logo=linux&logoColor=white">
+  <img src="https://img.shields.io/badge/raspberrypi-A22846?style=for-the-badge&logo=raspberrypi&logoColor=white">
   <img src="https://img.shields.io/badge/arduino-00878F?style=for-the-badge&logo=arduino&logoColor=white">
 </div>
 <br><br><br>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KYKyu&show_icons=true&theme=radical)  
+![KYKyu's GitHub stats](https://github-readme-stats.vercel.app/api?username=KYKyu&show_icons=true&theme=radical)  
 
 <!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KYKyu)
 
