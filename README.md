@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=75BDE0&text=Yeonkyu%20Kwak&fontSize=40&fontAlign=50&fontAlignY=40)
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&text=Yeonkyu%20Kwak&fontSize=40&fontAlign=50&fontAlignY=40)
 
 Hi there!🖐️
 
