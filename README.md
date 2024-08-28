@@ -30,6 +30,7 @@ Hi there!🖐️
 
 <!-- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KYKyu)](https://github.com/KYKyu/github-readme-stats) -->
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=yeonkyu0820)](https://solved.ac/yeonkyu0820/)
+[![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=wke1wke1)](https://solved.ac/wke1wke1)
 <!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KYKyu) -->
 
 
