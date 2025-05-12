@@ -1,3 +1,4 @@
+<!--
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&text=Yeonkyu%20Kwak&fontSize=40&fontAlign=50&fontAlignY=40)
 
 Hi there!🖐️
@@ -32,8 +33,6 @@ Hi there!🖐️
 
 
 
-
-<!--
 **KYKyu/KYKyu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -47,3 +46,84 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<!--
+**ccttppss/ccttppss** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+Here are some ideas to get you started:
+
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+-->
+
+## 👋 Hi, I'm Yeonkyu Kwak
+I am a **Deep Learning Researcher**.\
+Currently, I am pursuing my **M.S. in Software Convergence** at **Sungkyunkwan University**, focusing on **Anomaly Detection**.
+
+## 🔬 Research Interests:
+- Deep Learning
+- Multimodal model
+- Computer Vision
+- Anomaly Detection
+- Natural Language Process
+
+
+---
+
+## 🎓 Education
+- **M.S. in Software Convergence**, Sungkyunkwan University (2025 - Present)  
+- **B.S. in **, Yeungnam University (2019 - 2025)
+
+<!---
+
+## 🏆 Publications
+### 📄 **Journal Papers**
+
+- Chae-woo Im, **Eun-Ho Kim**, Jang-Won Suh (2024)\
+  📌 임베디드 시스템 (Raspberry PI 5) 환경에서의 DistilBERT 구현 및 성능 검증에 관한 연구\
+  📕 한국정보처리학회 학술대회논문집, 2024
+  
+- **Kim Eun Ho**, Im Chae Woo, Lee Yun Dong, Yoo Dong Kwan (2024)\
+  📌 임베디드 시스템 (Raspberry PI 5, Galaxy Note 10+) 환경에서의 MobileViT 탑재 및 성능 검증에 관한 연구\
+  📕 한국통신학회 학술대회논문집, 2024
+  -->
+---
+
+## 📚 Seminar on Thesis Research
+
+| Date       | Title & Topic                                                                                         |
+|------------|-------------------------------------------------------------------------------------------------------|
+| 2025-03-13 | MetaFormer and CNN Hybrid Model for Polyp Image Segmentation |
+| 2025-03-26 | LPFSTNet: A lightweight and parameter-free head attention-based student–teacher network for fast 3D industrial anomaly detection |
+| 2025-05-16 | DFormerv2: Geometry Self-Attention for RGBD Semantic Segmentation |
+
+---
+
+## 🔧 Skills
+### Programming & Frameworks
+- **Python** (Deep Learning, Computer Vision, PyTorch, TensorFlow, OpenCV)
+- **C/C++ & Arduino** (Embedded Systems, Motor Control Driving)
+- **JavaScript**
+- **CSS**
+### Machine Learning & Deep Learning
+- **Anomaly & Defect Detection**
+- **Object Classification & Detection & Segmentation & Tracking** (YOLOs, ViT)
+- **Multimodal Language-vision model** (ViLT, Honeybee)
+### Database & DevOps
+- **Git & GitHub** (Version Control)
+- **Raspberry Pi OS 4, 5** (Debian Based, System Setup, Environment Management)
+- **Linux (Ubuntu)** (System Setup, Environment Management, Bash Scripting)
+- **Docker** (Image Creation·Distribution, Container Management)
+
+---
+
+## 📫 Contact
+💡 Always open to new opportunities and collaborations!\
+📧 Email: yeonkyu0820@g.skku.edu , yeonkyu.leo@gmail.com\
+📍 Location: South Korea 🇰🇷
