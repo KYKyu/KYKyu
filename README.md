@@ -98,15 +98,15 @@ Currently, I am pursuing my **M.S. in Software Convergence** at **Sungkyunkwan U
 ## 📚 Seminar on Thesis Research
 
 | Date       | Title & Topic                                                                                         |
-|------------|-------------------------------------------------------------------------------------------------------|
-| 2025-03-13 | MetaFormer and CNN Hybrid Model for Polyp Image Segmentation |
-| 2025-03-26 | LPFSTNet: A lightweight and parameter-free head attention-based student–teacher network for fast 3D industrial anomaly detection |
-| 2025-05-16 | DFormerv2: Geometry Self-Attention for RGBD Semantic Segmentation |
-| 2025-06-01 | Markovgen: Structured prediction for efficient text-to-image generation |
-| 2025-06-30 | Muse: Text-To-Image Generation via Masked Generative Transformers |
-| 2025-07-18 | Minigpt-4: Enhancing vision-language understanding with advanced large language models |
-| 2025-07-31 | Move-kd: Knowledge distillation for vlms with mixture of visual encoders |
-| 2025-08-31 | Cheating depth: Enhancing 3d surface anomaly detection via depth simulation |
+|--------------|-------------------------------------------------------------------------------------------------------|
+|  2025-03-13  | MetaFormer and CNN Hybrid Model for Polyp Image Segmentation |
+|  2025-03-26  | LPFSTNet: A lightweight and parameter-free head attention-based student–teacher network for fast 3D industrial anomaly detection |
+|  2025-05-16  | DFormerv2: Geometry Self-Attention for RGBD Semantic Segmentation |
+|  2025-06-01  | Markovgen: Structured prediction for efficient text-to-image generation |
+|  2025-06-30  | Muse: Text-To-Image Generation via Masked Generative Transformers |
+|  2025-07-18  | Minigpt-4: Enhancing vision-language understanding with advanced large language models |
+|  2025-07-31  | Move-kd: Knowledge distillation for vlms with mixture of visual encoders |
+|  2025-08-31  | Cheating depth: Enhancing 3d surface anomaly detection via depth simulation |
 
 
 ---
