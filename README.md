@@ -107,7 +107,8 @@ Currently, I am pursuing my **M.S. in Software Convergence** at **Sungkyunkwan U
 | 2025-07-18 | Minigpt-4: Enhancing vision-language understanding with advanced large language models |
 | 2025-07-31 | Move-kd: Knowledge distillation for vlms with mixture of visual encoders |
 | 2025-08-31 | Cheating depth: Enhancing 3d surface anomaly detection via depth simulation |
-
+| 2025-09-30 | SoftPatch+: Fully unsupervised anomaly classification and segmentation |
+| 2025-10-31 | FastRecon: Few-shot Industrial Anomaly Detection via Fast Feature Reconstruction |
 
 ---
 
