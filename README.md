@@ -112,6 +112,25 @@ Currently, I am pursuing my **M.S. in Software Convergence** at **Sungkyunkwan U
 
 ---
 
+## 💡 Intellectual Property
+
+### Program Registrations
+- 지오메트리 및 세맨틱 정렬 기반 작은 객체 탐지 시스템
+  - 등록 번호: C-2025-047370
+  - 설명: 다중 스케일의 특징 간 불균형 문제를 개선하기 위해 DN-FPN 구조를 적용하여 작은 객체 탐지 성능과 전체적 표현력을 동시에 향상시킨 객체 탐지 네트워크.
+- 차량 결함 자동 진단 및 복구 예측 시스템
+  - 등록 번호: C-2025-019655
+  - 설명: 차량 외관의 다양한 결함을 Mask R-CNN 모델로 자동 진단하고, 손상 부위의 복구 가능성을 판단하여 Stable Diffusion 기반 인페인팅(Inpainting) 모델을 통해 고품질의 복구 이미지를 자동 생성하는 통합 프로그램.
+- 다중 객체 기반 결함 예측 및 분류 학습 시스템
+  - 등록 번호: C-2025-021265
+  - 설명: 비정형 이미지 데이터를 효율적으로 학습 및 처리하여 다양한 환경과 결함 유형에 유연하게 확장 가능한 고성능 이미지 분석 프로그램.
+     
+### Patents
+- 인공지능 기반 이상 탐지 및 복구 가능성 예측 장치 및 방법 (출원 번호: 10-2025-0095368/ 25.07.15)
+- 텍스트-이미지 멀티모달 기반 이상 탐지용 결함 분류 장치 및 방법 (출원 번호: 10-2025-0097231/ 25.07.18)
+
+---
+
 ## 🔧 Skills
 ### Programming & Frameworks
 - **Python** (Deep Learning, Computer Vision, PyTorch, TensorFlow, OpenCV)
