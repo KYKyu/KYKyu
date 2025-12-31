@@ -77,8 +77,8 @@ Currently, I am pursuing my **M.S. in Software Convergence** at **Sungkyunkwan U
 ---
 
 ## 🎓 Education
-- **M.S. in Software Convergence**, Sungkyunkwan University (2025 - Present)  
-- **B.S. in** , Yeungnam University (2019 - 2025)
+- **M.S. in Computer Science and Engineering**, Sungkyunkwan University (2025 – Present)  
+- **B.S. in Information and Communication Engineering**, Yeungnam University (2019 – 2025)
 
 <!---
 
