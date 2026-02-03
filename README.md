@@ -110,6 +110,11 @@ Currently, I am pursuing my **M.S. in Software Convergence** at **Sungkyunkwan U
 | 2025-09-30 | SoftPatch+: Fully unsupervised anomaly classification and segmentation |
 | 2025-10-31 | FastRecon: Few-shot Industrial Anomaly Detection via Fast Feature Reconstruction |
 | 2025-11-30 | DeepDPM: Deep Clustering With an Unknown Number of Clusters |
+| 2025-12-26 | PIDDN: Pair-Image based Defect Detection Network with Template for PCB Inspection |
+| 2025-12-31 | Dinomaly: The less is more philosophy in multi-class unsupervised anomaly detection |
+| 2026-01-07 | Siamese network with change awareness for surface defect segmentation in complex backgrounds |
+| 2026-01-18 | Gs-slam: Dense visual slam with 3d gaussian splatting |
+| 2026-02-01 | VLIPP: Towards Physically Plausible Video Generation with Vision and Language Informed Physical Prior |
 
 ---
 
@@ -118,7 +123,10 @@ Currently, I am pursuing my **M.S. in Software Convergence** at **Sungkyunkwan U
 ### Program Registrations
 - DepthAware Patch Selection (DAPS) (깊이 인식 패치 선택)
   - 등록 번호: C-2025-028713
-  - 설명: Depth map의 측정 한계로 인한 노이즈 영역에 대응하는 RGB 패치 특징을 0으로 마스킹하여, 유효한 정보만 선별적으로 학습함으로써 모델 성능을 최적화.
+  - 설명: Depth map의 측정 한계로 인한 노이즈 영역에 대응하는 RGB 패치 특징을 0으로 마스킹하여, 유효한 정보만 선별적으로 학습함으로써 모델 성능을 최적화한다.
+- 다중 클러스터 기반 소수샘플 산업 불량 탐지 시스템
+  - 등록 번호: C-2025-061756
+  - 설명: 다중 클러스터링 기반 분석을 통해 제조업 표면 결함을 자동으로 탐지하고 이상 여부를 판별한다.
      
 ### Patents
 - 
