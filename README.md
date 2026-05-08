@@ -115,7 +115,10 @@ Currently, I am pursuing my **M.S. in Software Convergence** at **Sungkyunkwan U
 | 2026-01-07 | Siamese network with change awareness for surface defect segmentation in complex backgrounds |
 | 2026-01-18 | Gs-slam: Dense visual slam with 3d gaussian splatting |
 | 2026-02-01 | VLIPP: Towards Physically Plausible Video Generation with Vision and Language Informed Physical Prior |
-
+| 2026-02-24 | Cosmos Policy: Fine-Tuning Video Models for Visuomotor Control and Planning |
+| 2026-03-16 | World Simulation with Video Foundation Models for Physical AI |
+| 2026-03-24 | Any6D: Model-free 6D Pose Estimation of Novel Objects |
+| 2026-05-04 | iG-6DoF: Model-free 6DoF Pose Estimation for Unseen Object via Iterative 3D Gaussian Splatting |
 ---
 
 ## 💡 Intellectual Property
