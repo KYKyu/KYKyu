@@ -130,9 +130,14 @@ Currently, I am pursuing my **M.S. in Software Convergence** at **Sungkyunkwan U
 - 다중 클러스터 기반 소수샘플 산업 불량 탐지 시스템
   - 등록 번호: C-2025-061756
   - 설명: 다중 클러스터링 기반 분석을 통해 제조업 표면 결함을 자동으로 탐지하고 이상 여부를 판별한다.
+- 6D Object Pose Estimation via 3DGS-based Joint Shape-Pose Refinement (3DGS 기반 형상-자세 공동 정제를 통한 6D 객체 자세 추정 프로그램)
+  - 등록 번호: C-2026-030961
+  - 설명: 본 프로그램은 단일 RGB-D 영상으로 생성된 부정확한 3D 객체 모델을 3D Gaussian Splatting(3DGS) 기반의 형상-자세 공동 정제를 통해 개선하여, 객체의 6D pose 추정 정확도를 높이는 training-free 후처리 소프트웨어이다. 기존 자세 추정기와 별도의 재학습 없이 연동 가능하며, 다양한 평가 시퀀스에서 안정적이고 일관된 자세 추정 성능 향상을 제공한다.
+
      
 ### Patents
-- 
+- 3차원 가우시안 스플래팅 기반 형상-자세 공동 정제를 통한 6D 객체 자세 추정 방법
+  - 심사 중
 
 ---
 
